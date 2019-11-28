@@ -12,6 +12,7 @@ Run Loadmodel.m //for testing.
 
 ![Picture1](https://user-images.githubusercontent.com/43944394/69815825-7ba47500-123a-11ea-8ba1-dfc9ea6dc888.jpg)  
 
+![Picture1](https://user-images.githubusercontent.com/43944394/69815825-7ba47500-123a-11ea-8ba1-dfc9ea6dc888.jpg)
 
 ![Picture4](https://user-images.githubusercontent.com/43944394/69815896-a989b980-123a-11ea-90bd-bf908c3ade8e.jpg) 
 
