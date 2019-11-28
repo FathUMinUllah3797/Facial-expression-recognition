@@ -8,7 +8,7 @@ Run hogFeatures.m //for features collection. Make sure to change path of directr
 
 Run Loadmodel.m //for testing.
 
-#DEMO results
+## DEMO results
 
 ![Picture1](https://user-images.githubusercontent.com/43944394/69815825-7ba47500-123a-11ea-8ba1-dfc9ea6dc888.jpg)  
 
