@@ -10,6 +10,7 @@ Run Loadmodel.m //for testing.
 
 #DEMO results
 
+![Picture1](https://user-images.githubusercontent.com/43944394/69815825-7ba47500-123a-11ea-8ba1-dfc9ea6dc888.jpg)
 ![2](https://user-images.githubusercontent.com/43944394/69815313-5fec9f00-1239-11ea-923e-f1909004fd39.jpg)
 
 
