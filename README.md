@@ -15,7 +15,9 @@ Run Loadmodel.m //for testing.
 ![2](https://user-images.githubusercontent.com/43944394/69815313-5fec9f00-1239-11ea-923e-f1909004fd39.jpg)
 
 
+You can get my pre-trained model from here
 
+https://drive.google.com/open?id=1O0mA6jZOQgA161AODpLsJn_gdNu64QRo
 
 
 
