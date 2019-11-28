@@ -18,7 +18,7 @@ Run Loadmodel.m //for testing.
 
 ### Pre-trained model
 
-You can get my pre-trained model from the following link
+You can get my pre-trained model from the following link:
 
 https://drive.google.com/open?id=1O0mA6jZOQgA161AODpLsJn_gdNu64QRo
 
