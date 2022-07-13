@@ -1,4 +1,5 @@
-# Facial-Expression-Recognition
+# Facial Expression Analysis of group photo 
+## (The 3rd International Conference on Next Generation Computing(ICNGC2017b))
 
 ## Matlab
 
@@ -24,6 +25,8 @@ https://drive.google.com/open?id=1O0mA6jZOQgA161AODpLsJn_gdNu64QRo
 
 ## PYTHON
 
-I will upload the python code for FER very soon. keep in touch.
+# Citation
+
+
 
 
