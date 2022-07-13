@@ -33,7 +33,7 @@ Fath U Min Ullah et al. [**"Raspberry Pi assisted facial expression recognition 
 Elseviewer, Information Science, (2019).
 
 #### ICNGC2017b
-Fath U Min Ullah et al. [**"Facial Expression Analysis of group photo**](https://www.researchgate.net/profile/Fath-U-Min-Ullah-2/publication/327982428_Facial_Expression_Analysis_of_group_photo/links/5bb202a092851ca9ed333525/Facial-Expression-Analysis-of-group-photo.pdf) 
+Fath U Min Ullah et al. [**"Facial Expression Analysis of group photo"**](https://www.researchgate.net/profile/Fath-U-Min-Ullah-2/publication/327982428_Facial_Expression_Analysis_of_group_photo/links/5bb202a092851ca9ed333525/Facial-Expression-Analysis-of-group-photo.pdf) 
 (The 3rd International Conference on Next Generation Computing(ICNGC2017b)).
 
 
